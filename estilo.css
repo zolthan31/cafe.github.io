@@ -33,15 +33,15 @@ a {
 footer p {
     font-size: 22px;
     font-style: italic;
-    color: red;
+    color: black;
     text-align: right;
-    margin-right: 15px;
-    background: none;
+    margin-right: 10px;
+    
     
 }
 
 footer a {
-    color:black;
+    color:red;
     text-transform: uppercase;
 }
 
